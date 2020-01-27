@@ -1,0 +1,29 @@
+/*! This is the body style 
+*/
+
+
+element.style {
+}
+body {
+    background-color: #f3f3f3;
+    margin: 0;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+b
